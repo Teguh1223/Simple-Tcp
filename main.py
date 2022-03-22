@@ -15,7 +15,7 @@ print("""\u001b[31m
 
 
 ip = str(input("Ip : "))
-port = int(input("Port: "))
+port = int(input("Port : "))
 times = int(input ("Sent File : "))
 threads = int(input("TimeOut : "))
 print("Says GoodBye")
