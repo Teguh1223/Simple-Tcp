@@ -1,4 +1,4 @@
-#Simple
+#Simple TCP
 import random
 import socket
 import threading
