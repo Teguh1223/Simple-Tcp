@@ -35,5 +35,5 @@ def wibu():
 		    print("Sent File To Ip and Port Connecting Easy Down!!!")
 		    
 for y in range(threads):
-    th = threading.Thread(target = Set)
+    th = threading.Thread(target = Sent)
     th.start()
